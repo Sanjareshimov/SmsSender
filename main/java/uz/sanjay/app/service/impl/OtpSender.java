@@ -2,6 +2,7 @@ package uz.sanjay.app.service.impl;
 
 import uz.sanjay.app.service.SmsNotifier;
 
+@Service
 public class OtpSender implements SmsNotifier {
 
     @Override
